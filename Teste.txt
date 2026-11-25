@@ -1,4 +1,3 @@
 branch remoto 1
 esse é um teste de conflito na branch 2
-
-
+comentario da modificação da branch 1 
